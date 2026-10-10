@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+PyMuPDF==1.23.26
+python-multipart
+requests
+httpx
+pytest
+pytest-asyncio
+jinja2
